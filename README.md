@@ -8,5 +8,6 @@ The error judgment is considered from the following perspectives.
 3. If it occurs continuously
    
 The Objective is
+
 1)Perform Trend Analysis on Final_value and Final_Position_Value
 2)Create an Algorithm to make the Final_value and Final_Position_Value same or make the error zero
