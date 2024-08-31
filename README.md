@@ -1,4 +1,5 @@
-The data used for analysis are FINAL_VALUE and FINAL_POSITION_VALUE.
+Data analysis and visualization on Valve data.
+The data columns used for analysis are FINAL_VALUE and FINAL_POSITION_VALUE.
 The error judgment is considered from the following perspectives.
 1. The magnitude of the error
 2. The duration of the error above a certain level
